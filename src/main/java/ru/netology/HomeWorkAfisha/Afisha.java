@@ -1,4 +1,4 @@
-package ru.netology.HomeWorkObjectAfisha;
+package ru.netology.HomeWorkAfisha;
 
 public class Afisha {
 

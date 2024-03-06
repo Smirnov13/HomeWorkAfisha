@@ -1,4 +1,4 @@
-package ru.netology.HomeWorkObjectAfisha;
+package ru.netology.HomeWorkAfisha;
 
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
